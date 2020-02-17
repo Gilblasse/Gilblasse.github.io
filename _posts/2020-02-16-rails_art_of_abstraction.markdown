@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Art of Abstraction"
-date:       2020-02-17 04:09:46 +0000
+date:       2020-02-16 23:09:47 -0500
 permalink:  rails_art_of_abstraction
 ---
 
