@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript, Function, What's Your Function"
-date:       2020-03-15 19:52:18 +0000
+date:       2020-03-15 15:52:19 -0400
 permalink:  javascript_function_whats_your_function
 ---
 
@@ -11,7 +11,7 @@ Your making the worlds best program that outlines the optimal path a train must 
 Functions are considered first class citizens. This means they are considered value expressions that can be used anywhere in your program with little to no restrictions. 
 
 Another awesome fact is they can be defined in multiple forms. There're named functions, anonymous functions, and IIFE's.
-
+dadsfa
 
 
 ### Named Functions
