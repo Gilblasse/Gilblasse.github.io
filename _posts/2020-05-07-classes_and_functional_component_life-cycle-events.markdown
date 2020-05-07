@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Classes & Functional Component Life-Cycle-Events"
-date:       2020-05-07 04:57:26 +0000
+date:       2020-05-07 00:57:27 -0400
 permalink:  classes_and_functional_component_life-cycle-events
 ---
 
