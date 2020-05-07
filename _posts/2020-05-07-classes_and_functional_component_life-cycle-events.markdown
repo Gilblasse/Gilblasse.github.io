@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Classes & Functional Component Life-Cycle-Events"
+title:      "Two Major Life-Cycle Events - (Classes vs Functional) "
 date:       2020-05-07 00:57:27 -0400
 permalink:  classes_and_functional_component_life-cycle-events
 ---
